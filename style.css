@@ -61,3 +61,26 @@
     width: 70%;
     height: 40px;
 }
+
+.container-3 {
+    background-color: aqua;
+    height: fit-content;
+    padding: 40px 20px;
+
+
+}
+
+.contant {
+    background-color: rgb(255, 0, 0);
+    margin: 10px;
+    height: 500px;
+    display: inline-block;
+    width: 300px;
+}
+
+.main-contant {
+    background-color: blue;
+    display: inline-block;
+    /* margin-left: 100px; */
+
+}
