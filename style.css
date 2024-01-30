@@ -63,24 +63,103 @@
 }
 
 .container-3 {
-    background-color: aqua;
+    background-color: rgb(202, 202, 202);
     height: fit-content;
-    padding: 40px 20px;
+    padding: 60px 20px;
+
+    margin: 50px auto;
 
 
-}
-
-.contant {
-    background-color: rgb(255, 0, 0);
-    margin: 10px;
-    height: 500px;
-    display: inline-block;
-    width: 300px;
 }
 
 .main-contant {
-    background-color: blue;
+    /* background-color: blue; */
     display: inline-block;
-    /* margin-left: 100px; */
+    margin-left: 140px;
+    margin-right: 140px;
+}
 
+.contant {
+    background-color: white;
+    margin: 10px;
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+    padding: 25px;
+}
+
+
+.contant-title {
+    background-color: rgb(202, 202, 202);
+    height: 40px;
+}
+
+.contant-1 {
+    background-color: rgb(202, 202, 202);
+    height: 180px;
+    margin-top: 25px;
+}
+
+.title-4 {
+    background-color: rgb(202, 202, 202);
+    margin: 40px auto;
+    width: 20%;
+    height: 40px;
+}
+
+.container-4 {
+    /* background-color: blue; */
+    height: fit-content;
+    width: 40%;
+    margin: 5px auto;
+}
+
+.contant-2 {
+    background-color: rgb(202, 202, 202);
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.contant-3 {
+    background-color: rgb(202, 202, 202);
+    height: 250px;
+    margin-bottom: 15px;
+}
+
+.contant-4 {
+    background-color: rgb(202, 202, 202);
+    height: 50px;
+    width: 49%;
+    margin-bottom: 15px;
+
+    display: inline-block;
+}
+
+.contant-5 {
+    background-color: rgb(202, 202, 202);
+    height: 50px;
+    width: 49%;
+    margin-bottom: 15px;
+    float: right;
+}
+
+footer {
+    background-color: rgb(202, 202, 202);
+    height: fit-content;
+    padding: 20px;
+    padding-bottom: 0;
+}
+
+.footer-1 {
+    background-color: white;
+    height: 200px;
+    width: 49%;
+    display: inline-block;
+}
+
+.footer-2 {
+    background-color: white;
+    height: 200px;
+    float: right;
+    width: 49%;
 }
