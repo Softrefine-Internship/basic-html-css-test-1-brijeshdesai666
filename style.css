@@ -20,7 +20,7 @@
     background-color: rgb(202, 202, 202);
     height: 500px;
     width: 49.5%;
-    /* float: left; */
+
     display: inline-block;
 }
 
@@ -41,8 +41,9 @@
 .container-2 {
     margin: 40px auto;
     /* background-color: red; */
-    /* height: auto; */
+
     width: fit-content;
+
 }
 
 
@@ -66,17 +67,15 @@
     background-color: rgb(202, 202, 202);
     height: fit-content;
     padding: 60px 20px;
-
-    margin: 50px auto;
+    margin: 50px 0;
 
 
 }
 
 .main-contant {
     /* background-color: blue; */
-    display: inline-block;
-    margin-left: 140px;
-    margin-right: 140px;
+    margin: 10px auto;
+    width: fit-content;
 }
 
 .contant {
